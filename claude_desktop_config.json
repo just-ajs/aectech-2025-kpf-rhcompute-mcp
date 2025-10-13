@@ -1,11 +1,11 @@
 {
   "mcpServers": {
     "simple-mcp-server": {
-      "command": "/Users/aleksandrasojka/opt/anaconda3/envs/mcp-server/bin/python",
-      "args": ["/Users/aleksandrasojka/Documents/Data/mcp/server.py"],
+      "command": "python",
+      "args": ["C:/Users/jszychowska/source/ai/mcp/server.py", "--stdio"],
       "env": {
         "OPENWEATHER_API_KEY": "your_api_key_here"
       }
     }
   }
-} 
+}
