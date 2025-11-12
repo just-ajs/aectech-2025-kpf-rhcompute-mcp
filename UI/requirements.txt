@@ -1,0 +1,10 @@
+streamlit==1.45.1
+boto3>=1.35.0
+python-dotenv==1.0.0
+streamlit-cognito-auth==1.3.1
+strands-agents
+strands-agents-tools
+strands-agents[openai]
+strands-agents[gemini]
+strands-agents[anthropic]
+strands-agents[ollama]
