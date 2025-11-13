@@ -79,7 +79,7 @@ cd MCP1
 
 **Windows (PowerShell):**
 ```bash
-python -m venv .venvmcp1
+python -m venv .ven-vmcp1
 .venv-mcp1\Scripts\Activate.ps1
 ```
 
